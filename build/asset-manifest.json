@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PPGgameshopP5/static/css/main.370ce34e.css",
+    "main.js": "/PPGgameshopP5/static/js/main.5de589cc.js",
+    "static/js/453.ed3810f9.chunk.js": "/PPGgameshopP5/static/js/453.ed3810f9.chunk.js",
+    "static/media/Carousel2.jpg": "/PPGgameshopP5/static/media/Carousel2.96be300ff8964a37d501.jpg",
+    "static/media/Carousel3.jpg": "/PPGgameshopP5/static/media/Carousel3.b83d68c6b250aa33ad0c.jpg",
+    "static/media/M_avatar2.jpg": "/PPGgameshopP5/static/media/M_avatar2.7bec8b3838b9a89b7954.jpg",
+    "static/media/Carousel1.jpg": "/PPGgameshopP5/static/media/Carousel1.0948fb800050487bbf81.jpg",
+    "static/media/M_avatar1.jpeg": "/PPGgameshopP5/static/media/M_avatar1.8dbc4a22ffeb8360464c.jpeg",
+    "static/media/M_avatar3.png": "/PPGgameshopP5/static/media/M_avatar3.eab3bb194352a75d1b10.png",
+    "static/media/Logo.png": "/PPGgameshopP5/static/media/Logo.7243e1007d22d6eede17.png",
+    "static/media/success.png": "/PPGgameshopP5/static/media/success.bbbc7525881c9e8143f1.png",
+    "index.html": "/PPGgameshopP5/index.html",
+    "main.370ce34e.css.map": "/PPGgameshopP5/static/css/main.370ce34e.css.map",
+    "main.5de589cc.js.map": "/PPGgameshopP5/static/js/main.5de589cc.js.map",
+    "453.ed3810f9.chunk.js.map": "/PPGgameshopP5/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.370ce34e.css",
+    "static/js/main.5de589cc.js"
+  ]
+}
